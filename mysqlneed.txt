@@ -1,0 +1,10 @@
+To Run this project, You must have mysql server in your system
+
+-----------------------------------------------------------
+Database name should be:city_hospital
+
+Database should have data in following tables:
+doctor_details with columns(name, specialisation, age, address, contact, fees, monthly_salary)
+nurse_details with columns( name, age, address, contact, monthly_salary)
+patient_detail with columns( name, sex, age, address, contact, disease)
+other_workers_details with columns( name, age, address, contact, monthly_salary, Work)
